@@ -1,22 +1,5 @@
----
-layout: post
-title: "2024fall-信息学中的概率统计-期中复习"
-date: 2024-11-8
-categories: [Probability_for_Computing, 2024fall]
-tags: [academic, blog]
----
-<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-<script type="text/javascript" src="/assets/js/scripts.js"></script>
-<script type="text/javascript" async 
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
 # 期中复习
 *前八周内容（到多维离散随机变量）*
-
-*这次期中偏重基础，题目风格与作业题类似，题量较大，如果很顺地做下来是来得及的。但显然我没有。*
-
-
 ## Contents
 - 课堂内容总结
 - 作业题题解
