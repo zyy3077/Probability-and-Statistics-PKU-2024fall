@@ -1,7 +1,7 @@
 ### 尾不等式
 - **Chernoff Bound**：对$e^{tX}$使用马尔可夫不等式，$M_{X}(t) = E(e^{tX})$
   - $\forall t > 0, P(X\geq k) = P(e^{tX}\geq e^{tk}) \leq P(e^{tX}\geq \frac{e^{tk}}{E(e^{tX})}\cdot E(e^{tX}))\leq M_{X}(t)\cdot e^{-tk}$
-  - 同理：$\forall t < 0, P(X\leq k) \leq M_{X}(t)\cdot e^{-tk}$
+  - $\forall t < 0, P(X\leq k) \leq M_{X}(t)\cdot e^{-tk}$
   - 不等式中$t$可以取任意值，使用时选取使得上界最小的最优$t$
   
   - $X\sim \pi(\lambda), M_X(t) = e^{\lambda(e^t-1)}$
